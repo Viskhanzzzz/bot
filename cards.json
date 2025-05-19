@@ -1,0 +1,86 @@
+{
+  "c1": {
+    "name": "Греф",
+    "rarity": "Мифическая",
+    "price": 100,
+    "image": "gref.jpeg"
+  },
+  "c2": {
+    "name": "Лилит",
+    "rarity": "Limited",
+    "price": 500,
+    "image": "lilith.jpeg"
+  },
+  "c3": {
+    "name": "Серафим",
+    "rarity": "Мифическая",
+    "price": 100,
+    "image": "serafim.jpeg"
+  },
+  "c4": {
+    "name": "Админ Прошмандовок",
+    "rarity": "Limited",
+    "price": 1000,
+    "image": "adminp.jpeg"
+  }
+  "c5": {
+    "name": "Cselx",
+    "rarity": "Легендарная",
+    "price": 75,
+    "image": "cselx.jpeg"
+  }
+  "c6": {
+    "name": "Boob",
+    "rarity": "Легендарная",
+    "price": 75,
+    "image": "boob.jpeg"
+  }
+  "c7": {
+    "name": "Висхан",
+    "rarity": "Мифическая",
+    "price": 150,
+    "image": "vvvv.jpeg"
+  }
+  "c8": {
+    "name": "Акфлуп",
+    "rarity": "Легендарная",
+    "price": 75,
+    "image": "akflyp.jpeg"
+  }
+  "c9": {
+    "name": "Фейси",
+    "rarity": "Легендарная",
+    "price": 75,
+    "image": "imran.jpeg"
+  }
+  "c10": {
+    "name": "Ильдар",
+    "rarity": "Легендарная",
+    "price": 75,
+    "image": "ildar.jpeg"
+  }
+  "c13": {
+    "name": "Клекс",
+    "rarity": "Обычная",
+    "price": 2,
+    "image": "cselx2.png"
+  }
+  "c14": {
+    "name": "Катана",
+    "rarity": "Обычная",
+    "price": 2,
+    "image": "serafim2.jpeg"
+  }
+  "c11": {
+    "name": "Масрур",
+    "rarity": "Легендарная",
+    "price": 75,
+    "image": "masrur.jpeg"
+  }
+  "c12": {
+    "name": "Акфлуп2",
+    "rarity": "Обычная",
+    "price": 1,
+    "image": "akfyp2.jpeg"
+
+}
